@@ -5,3 +5,6 @@ h1{
     font-weight: bold;
     display: inline-block;
 }
+img{
+    width:50%;
+}
